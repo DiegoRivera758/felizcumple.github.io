@@ -6,7 +6,7 @@ const canvasC = document.getElementById('c');
 //Configuracion de nombre y fecha
 const config = {
   birthdate: 'May 2, 2024',
-  name: 'Belinda!'
+  name: 'Belica!'
 };
 
 function hideEverything() {
